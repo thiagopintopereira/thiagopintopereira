@@ -1,16 +1,13 @@
-👋 Hi, I’m @thiagopintopereira
+Profissional com 5 anos de experiência atuando como Especilista de Dados com geração de pipelines, construção de ETL em Pentaho e Knime, criação de consultas SQL avançadas, uso do Azure Databricks para integração e criação de dashboards em Power BI para a área de negócios.
 
-👀 I’m interested in leveraging data to drive business insights and decisions.
+Atuo em projetos com automatização de rotinas de relatórios, padronização de processos e integração de sistemas para otimização e desempenho dos dashboards.
 
-🌱 I’m currently learning more about Data Science, focusing on advanced analytics and machine learning techniques through my MBA studies.
+Possuo expertise em infraestrutura de dados, com experiência prática em Microsoft Azure, Databricks e Airflow, atuando no desenvolvimento e gerenciamento de pipelines de dados robustos e escaláveis
 
-💞️ I’m looking to collaborate on projects related to data analysis, business intelligence, and sustainable development.
 
-📫 How to reach me: Feel free to contact me through my [website](https://sites.google.com/view/thiagopinto) for any inquiries or collaboration opportunities.
 
-😄 Pronouns: He/Him
-
-⚡ Fun fact: I have a decade of experience in commercial roles and four years in data analysis, combined with expertise in Market Intelligence.
+Ferramentas:
+Banco de dados | Azure DevOps | Power BI | Qlik | DAX | SQL | MySQL | PostgreSQL | ETL | Pentaho | Excel Avançado | SAP | Pyhton | Databricks | Datalake |
 
 <!---
 thiagopintopereira/thiagopintopereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
